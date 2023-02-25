@@ -1,4 +1,4 @@
-# Angular NestJS PostgreSQL GraphQL Typeorm Docker
+#NestJS PostgreSQL GraphQL Typeorm Docker
 
 A simple Backend application based on NestJS, where PostgreSQL acts as a database to control the base
 TypeORM is used, Graphql is used as a query language. All this is packed in Docker-Compose
